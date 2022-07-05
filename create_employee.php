@@ -27,6 +27,7 @@ use local_employee\form\employee as employee;
   $PAGE->set_title('employee');
   $employeedata = $DB->get_records('local_employee');
 
+echo "hii bhagyeshwar";
 
   echo $OUTPUT->header();
 
