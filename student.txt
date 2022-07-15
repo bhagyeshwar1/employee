@@ -1,0 +1,3 @@
+username,firstname,lastname,email,course1,role1
+Bhagya,Bhagyeshwar,Jogdand,bhagyeshwar5@gmail.com,math,student
+Raj,Raj,Sherkhane,raj@gmail.com,math,student
